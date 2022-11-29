@@ -137,7 +137,7 @@ a:active{
     text-align: center;
     border:2px solid magenta;
 }
-@media (min-width:800px){
+@media (min-width:400px){
     .container2{
         flex-direction: column;
     }
